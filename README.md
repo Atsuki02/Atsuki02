@@ -2,18 +2,20 @@
 <br/>
 <br/>
 
-<h5>👋 Hi, I'm Atsuki! I’m a front-end developer with a real passion for building accessible, user-friendly applications. I'm always eager to learn more and stay curious, diving deep into new technologies and techniques to keep pushing the boundaries of what I can create. Let's explore and innovate together!</h5>
+<h3>👋 Hi, I'm Atsuki! I’m a front-end developer with a real passion for building accessible, user-friendly applications. I'm always eager to learn more and stay curious, diving deep into new technologies and techniques to keep pushing the boundaries of what I can create. Let's explore and innovate together!</h3>
 <br/>
 <br/>
 
-#### Languages
+## Skills
+
+### Languages
 
 <img src="image/skills/html.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
 --><img src="image/skills/css.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
 --><img src="image/skills/javascript.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
 --><img src="image/skills/typescript.png" width="100" style="padding: 0 10px; display: inline-block;">
 
-#### Frameworks, Libraries and Environments
+### Frameworks, Libraries and Environments
 
 <img src="image/skills/react.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
 --><img src="image/skills/next.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
@@ -26,7 +28,7 @@
 --><img src="image/skills/jest.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
 --><img src="image/skills/storybook.png" width="100" style="padding: 0 10px; display: inline-block;">
 
-#### CSS Frameworks and Preprocessors
+### CSS Frameworks and Preprocessors
 
 <img src="image/skills/tailwind.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
 --><img src="image/skills/sass.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
@@ -35,7 +37,7 @@
 --><img src="image/skills/materialui.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
 --><img src="image/skills/shadcnui.png" width="100" style="padding: 0 10px; display: inline-block;">
 
-#### Systems, CMss, and Database
+### Systems, CMss, and Database
 
 <img src="image/skills/mysql.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
 --><img src="image/skills/mongodb.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
@@ -43,7 +45,7 @@
 --><img src="image/skills/wordpress.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
 --><img src="image/skills/microcms.png" width="100" style="padding: 0 10px; display: inline-block;">
 
-#### Development Tools and Environments
+### Development Tools and Environments
 
 <img src="image/skills/docker.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
 --><img src="image/skills/aws.png" width="100" style="padding: 0 10px; display: inline-block;"><!--
@@ -53,6 +55,6 @@
 <br/>
 <br/>
 
-### Projects
+## Projects
 
 <a href="https://fairyshare.xyz/" style="display: inline-block; padding: 0 10px;"><img src="image/projects/fairyshare.ico" width="100"></a><a href="https://www.microgeo.biz/" style="display: inline-block; padding: 0 10px;"><img src="image/projects/microbase.ico" width="100"></a>
